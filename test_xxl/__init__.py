@@ -1,1 +1,1 @@
-from test.test import twosum
+from test_xxl.test_xxl import twosum
